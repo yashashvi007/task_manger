@@ -1,0 +1,2 @@
+class OverdueController < ApplicationController
+end
